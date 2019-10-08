@@ -16,6 +16,9 @@ Given the Employee table, write a SQL query that finds out employees who earn mo
 | Joe      |
 +----------+
 
+半年内遇到：Adobe(2) 字节跳动(2)
+1-2年内遇到:苹果(2) 阿里(2) 大疆(2) 头条(2), 腾讯、微软、宏利基金、百度、网易、华为
+
 来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/employees-earning-more-than-their-managers
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
